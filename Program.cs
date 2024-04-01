@@ -15,7 +15,16 @@ namespace practico{
         Series.ejercicio2();
         Series.ejercicio3();
         Series.ejercicio4();
-        Series.ejercicio5(); 
+        Series.ejercicio5();
+
+        Cadenas.ejercicio1();
+        Cadenas.ejercicio2();
+        Cadenas.ejercicio3();
+        Cadenas.ejercicio4();
+        Cadenas.ejercicio5();
+
+        
+
             
 
         }
