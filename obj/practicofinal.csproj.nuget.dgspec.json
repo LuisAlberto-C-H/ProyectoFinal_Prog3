@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\practicofinal\\practicofinal\\practicofinal.csproj": {}
+    "C:\\Users\\FRANCO\\Desktop\\Universidad Privada Cumbre\\Programacion III\\ProyectoFinal_Prog3\\ProyectoFinal_Prog3\\practicofinal.csproj": {}
   },
   "projects": {
-    "D:\\practicofinal\\practicofinal\\practicofinal.csproj": {
+    "C:\\Users\\FRANCO\\Desktop\\Universidad Privada Cumbre\\Programacion III\\ProyectoFinal_Prog3\\ProyectoFinal_Prog3\\practicofinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\practicofinal\\practicofinal\\practicofinal.csproj",
+        "projectUniqueName": "C:\\Users\\FRANCO\\Desktop\\Universidad Privada Cumbre\\Programacion III\\ProyectoFinal_Prog3\\ProyectoFinal_Prog3\\practicofinal.csproj",
         "projectName": "practicofinal",
-        "projectPath": "D:\\practicofinal\\practicofinal\\practicofinal.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\practicofinal\\practicofinal\\obj\\",
+        "projectPath": "C:\\Users\\FRANCO\\Desktop\\Universidad Privada Cumbre\\Programacion III\\ProyectoFinal_Prog3\\ProyectoFinal_Prog3\\practicofinal.csproj",
+        "packagesPath": "C:\\Users\\FRANCO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FRANCO\\Desktop\\Universidad Privada Cumbre\\Programacion III\\ProyectoFinal_Prog3\\ProyectoFinal_Prog3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\FRANCO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
